@@ -1,0 +1,9 @@
+#include "oplsaa.ff/forcefield.itp"
+#include SEBS.itp
+[ system ]
+; Name
+SEBS polymer system
+
+[ molecules ]
+; Compound        #mols
+polymer 10
